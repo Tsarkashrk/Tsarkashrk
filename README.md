@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tsarkashrk
 - 👀 I’m interested in Front-End development
-- 🌱 I’m currently learning React
-- 💞️ My stack: JavaScript / TypeScript, React, Redux / Redux Toolkit
+- 🌱 I’m currently working with Next and React
+- 💞️ My stack: Next, React, JavaScript / TypeScript, Redux / Redux Toolkit
 - 📫 How to reach me tokesh04@mail.ru
